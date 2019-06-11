@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\bin\Debug\netcoreapp3.0\SugarHighProject.exe
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\bin\Debug\netcoreapp3.0\SugarHighProject.deps.json
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\bin\Debug\netcoreapp3.0\SugarHighProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\bin\Debug\netcoreapp3.0\SugarHighProject.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\bin\Debug\netcoreapp3.0\SugarHighProject.dll
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\bin\Debug\netcoreapp3.0\SugarHighProject.pdb
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\obj\Debug\netcoreapp3.0\SugarHighProject.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\obj\Debug\netcoreapp3.0\SugarHighProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\obj\Debug\netcoreapp3.0\SugarHighProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\obj\Debug\netcoreapp3.0\SugarHighProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\obj\Debug\netcoreapp3.0\SugarHighProject.dll
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\SugarHighProject\obj\Debug\netcoreapp3.0\SugarHighProject.pdb
