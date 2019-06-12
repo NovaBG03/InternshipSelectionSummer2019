@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\bin\Debug\netcoreapp3.0\AssignmentProject.exe
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\bin\Debug\netcoreapp3.0\AssignmentProject.deps.json
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\bin\Debug\netcoreapp3.0\AssignmentProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\bin\Debug\netcoreapp3.0\AssignmentProject.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\bin\Debug\netcoreapp3.0\AssignmentProject.dll
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\bin\Debug\netcoreapp3.0\AssignmentProject.pdb
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\obj\Debug\netcoreapp3.0\AssignmentProject.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\obj\Debug\netcoreapp3.0\AssignmentProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\obj\Debug\netcoreapp3.0\AssignmentProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\obj\Debug\netcoreapp3.0\AssignmentProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\obj\Debug\netcoreapp3.0\AssignmentProject.dll
+C:\Users\Administrator\Desktop\Codes\InternshipSelectionSummer2019\AssignmentProject\obj\Debug\netcoreapp3.0\AssignmentProject.pdb
