@@ -1,0 +1,8 @@
+You can start the application like any other using Visual Studio.
+When the console appears, you will see the following message:
+  "Choose which discount card to be created:
+  1 -> Bronze (turnover $0, purchase value $150)
+  2 -> Silver (turnover $600, purchase value $850)
+  3 -> Gold (turnover $1500, purchase value $1300)"
+You have to choose 1, 2 or 3 and press Enter.
+The program will create an instance of the chosen card and will display the output.
